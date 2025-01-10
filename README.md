@@ -1,6 +1,4 @@
-# TASK : UNDERSTAND THE PROBLEM STATEMENT AND BUSINESS CASE
-
-![image](https://user-images.githubusercontent.com/34706028/142774027-4fa57701-7547-49f8-adc3-7e203a851e65.png)
+# UNDERSTANDING THE PROBLEM STATEMENT AND BUSINESS CASE
 
 ![image](https://user-images.githubusercontent.com/34706028/142774043-e966e856-235d-4583-b216-0b5c3edd33cc.png)
 
